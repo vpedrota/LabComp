@@ -1,0 +1,4 @@
+Carlos Guilherme Moraes - 140386
+Victor Hugo Godoi Pedrota - 140698
+
+Obs.: O arquivo compilador é responsável por executar todo o projeto e o arquivo de entrada, onde estão situados os códigos para análise, é o arquivo entrada.txt
